@@ -1,5 +1,10 @@
 """
 CP1404/CP5632 - Practical
+FENG YUAN
+
+Emails to Names
+Estimate: 15 minutes
+Actual: 25 minutes
 Pseudo-code:
 
 The code uses a main function to ask the user for the number of quick picks they want,
