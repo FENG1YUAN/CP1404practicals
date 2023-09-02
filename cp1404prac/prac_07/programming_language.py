@@ -1,6 +1,8 @@
 """
 CP1404/CP5632 Practical - Suggested Solution
 Programming Language class with tests.
+Author: FENG YUAN
+Time: 30 minutes
 """
 
 

@@ -1,4 +1,5 @@
 """
+CP1404/CP5632 Practical
 Author: FENG YUAN
 Time: 15 minutes
 """
@@ -28,4 +29,3 @@ class Guitar:
     def __lt__(self, other):
         """Less than operator for sorting Guitars by year."""
         return self.year < other.year
-
